@@ -1,2 +1,3 @@
 Mengisikan file pertama
-Sebelum dilakukan perubahan
+Setelah dilakukan perubahan
+Ditambah suatu kalimat baru
