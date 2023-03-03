@@ -1,5 +1,7 @@
 Mengisikan file cabang
+Membuat cabang baru
 Setelah dilakukan perubahan
-Ditambah suatu kalimat baru
+Diubah suatu kalimat baru
 Membuat sebuah cabang
 Mengedit sesuatu di cabang
+Ini coba buat di cabang lain
